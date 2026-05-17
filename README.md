@@ -1,4 +1,4 @@
-# 👋 Hi, I'm CH. Lakshmi Nikitha
+# 👋 Hi, I'm Choppa Lakshmi Nikitha
 **M.Tech Student in Data Science @ JNTUH | ML & Data Analysis Enthusiast**
 
 I am a postgraduate student currently in my first year at **JNTUH** (Class of 2027). I am passionate about **Machine Learning**, **Data Analysis**, and building practical, data-driven applications. 
